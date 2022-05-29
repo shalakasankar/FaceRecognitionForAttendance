@@ -25,5 +25,5 @@ pip install pandas
 ```
 ### While running the application
 #### Admin Login Credentials
-Username: admin
+Username: admin<br />
 Password:1234
