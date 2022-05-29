@@ -12,11 +12,14 @@
 - Pandas version 1.4.2<br />
 
 ### Commands To install packages<br />
-`pip install django`<br/>
-`pip install cmake`<br/>
-`pip install dlib`<br/>
-`pip install face_recognition`<br/>
-`pip install opencv-python`<br/>
-`pip install numpy`<br/>
-`pip install django-crispy-forms`<br/>
-`pip install pandas`<br/>
+```
+pip install django
+pip install cmake
+pip install dlib
+pip install face_recognition
+pip install opencv-python
+pip install numpy
+pip install django-crispy-forms
+pip install pandas
+
+```
