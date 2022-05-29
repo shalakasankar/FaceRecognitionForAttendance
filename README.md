@@ -7,6 +7,7 @@ cmake version 3.22.4<br />
 dlib version 19.24.0<br />
 face_recognition version 1.2.3<br />
 numpy version 1.21.4<br />
+crispy forms<br />
 
 Commands To install packages<br />
 pip install django<br />
