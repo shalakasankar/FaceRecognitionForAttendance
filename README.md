@@ -23,6 +23,8 @@ pip install django-crispy-forms
 pip install pandas
 
 ```
+### To run application
+`python manage.py runserver`
 ### While running the application
 #### Admin Login Credentials
 Username: admin<br />
