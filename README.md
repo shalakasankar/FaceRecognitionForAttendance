@@ -24,7 +24,8 @@ pip install pandas
 
 ```
 ### To run application
-`python manage.py runserver`
+`cd FaceRecognitionForAttendance\Attendance\Attendance`<br />
+`$ python manage.py runserver`
 ### While running the application
 #### Admin Login Credentials
 Username: admin<br />
