@@ -11,7 +11,7 @@
 - Crispy-forms version 1.14.0<br />
 - Pandas version 1.4.2<br />
 
-### Commands To install packages<br />
+### Commands To install packages (On Windows)<br />
 ```
 pip install django
 pip install cmake
